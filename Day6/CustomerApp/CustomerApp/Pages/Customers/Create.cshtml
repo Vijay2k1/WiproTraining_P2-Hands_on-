@@ -1,0 +1,30 @@
+﻿@page
+@model CustomerApp.Pages.Customers.CreateModel
+@{
+    ViewData["Title"] = "Add Customer";
+}
+
+<h2>Add Customer</h2>
+<form method="post">
+    <div>
+        <label asp-for="Customer.Name"></label>
+        <input asp-for="Customer.Name" />
+    </div>
+    <div>
+        <label asp-for="Customer.Address"></label>
+        <input asp-for="Customer.Address" />
+    </div>
+    <div>
+        <label asp-for="Customer.Country"></label>
+        <input asp-for="Customer.Country" />
+    </div>
+    <div>
+        <label asp-for="Customer.City"></label>
+        <input asp-for="Customer.City" />
+    </div>
+    <div>
+        <label asp-for="Customer.Phoneno"></label>
+        <input asp-for="Customer.Phoneno" />
+    </div>
+    <button type="submit">Create</button>
+</form>

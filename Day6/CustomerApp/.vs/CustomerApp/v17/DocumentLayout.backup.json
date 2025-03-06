@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vas07\\source\\repos\\CustomerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD2273-7391-40FB-B86B-68335297296E}|CustomerApp\\CustomerApp.csproj|c:\\users\\vas07\\source\\repos\\customerapp\\customerapp\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD2273-7391-40FB-B86B-68335297296E}|CustomerApp\\CustomerApp.csproj|solutionrelative:customerapp\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD2273-7391-40FB-B86B-68335297296E}|CustomerApp\\CustomerApp.csproj|c:\\users\\vas07\\source\\repos\\customerapp\\customerapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD2273-7391-40FB-B86B-68335297296E}|CustomerApp\\CustomerApp.csproj|solutionrelative:customerapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD2273-7391-40FB-B86B-68335297296E}|CustomerApp\\CustomerApp.csproj|c:\\users\\vas07\\source\\repos\\customerapp\\customerapp\\pages\\customers\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD2273-7391-40FB-B86B-68335297296E}|CustomerApp\\CustomerApp.csproj|solutionrelative:customerapp\\pages\\customers\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD2273-7391-40FB-B86B-68335297296E}|CustomerApp\\CustomerApp.csproj|c:\\users\\vas07\\source\\repos\\customerapp\\customerapp\\pages\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD2273-7391-40FB-B86B-68335297296E}|CustomerApp\\CustomerApp.csproj|solutionrelative:customerapp\\pages\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD2273-7391-40FB-B86B-68335297296E}|CustomerApp\\CustomerApp.csproj|c:\\users\\vas07\\source\\repos\\customerapp\\customerapp\\pages\\customers\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD2273-7391-40FB-B86B-68335297296E}|CustomerApp\\CustomerApp.csproj|solutionrelative:customerapp\\pages\\customers\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD2273-7391-40FB-B86B-68335297296E}|CustomerApp\\CustomerApp.csproj|c:\\users\\vas07\\source\\repos\\customerapp\\customerapp\\pages\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD2273-7391-40FB-B86B-68335297296E}|CustomerApp\\CustomerApp.csproj|solutionrelative:customerapp\\pages\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD2273-7391-40FB-B86B-68335297296E}|CustomerApp\\CustomerApp.csproj|c:\\users\\vas07\\source\\repos\\customerapp\\customerapp\\pages\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD2273-7391-40FB-B86B-68335297296E}|CustomerApp\\CustomerApp.csproj|solutionrelative:customerapp\\pages\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD2273-7391-40FB-B86B-68335297296E}|CustomerApp\\CustomerApp.csproj|c:\\users\\vas07\\source\\repos\\customerapp\\customerapp\\pages\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7DD2273-7391-40FB-B86B-68335297296E}|CustomerApp\\CustomerApp.csproj|solutionrelative:customerapp\\pages\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD2273-7391-40FB-B86B-68335297296E}|CustomerApp\\CustomerApp.csproj|c:\\users\\vas07\\source\\repos\\customerapp\\customerapp\\pages\\customers\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD2273-7391-40FB-B86B-68335297296E}|CustomerApp\\CustomerApp.csproj|solutionrelative:customerapp\\pages\\customers\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DD2273-7391-40FB-B86B-68335297296E}|CustomerApp\\CustomerApp.csproj|c:\\users\\vas07\\source\\repos\\customerapp\\customerapp\\pages\\customers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DD2273-7391-40FB-B86B-68335297296E}|CustomerApp\\CustomerApp.csproj|solutionrelative:customerapp\\pages\\customers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\CustomerApp\\CustomerApp\\Pages\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "CustomerApp\\Pages\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\CustomerApp\\CustomerApp\\Pages\\Customers\\Index.cshtml",
+              "RelativeToolTip": "CustomerApp\\Pages\\Customers\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T09:51:18.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\CustomerApp\\CustomerApp\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "CustomerApp\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\CustomerApp\\CustomerApp\\Services\\CustomerService.cs",
+              "RelativeToolTip": "CustomerApp\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:38:02.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\CustomerApp\\CustomerApp\\Pages\\Customers\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "CustomerApp\\Pages\\Customers\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\CustomerApp\\CustomerApp\\Pages\\Customers\\Delete.cshtml.cs",
+              "RelativeToolTip": "CustomerApp\\Pages\\Customers\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:56:20.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\CustomerApp\\CustomerApp\\Pages\\Customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CustomerApp\\Pages\\Customers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\CustomerApp\\CustomerApp\\Pages\\Customers\\Edit.cshtml",
+              "RelativeToolTip": "CustomerApp\\Pages\\Customers\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T09:52:18.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\CustomerApp\\CustomerApp\\Pages\\Customers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CustomerApp\\Pages\\Customers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\CustomerApp\\CustomerApp\\Pages\\Customers\\Delete.cshtml",
+              "RelativeToolTip": "CustomerApp\\Pages\\Customers\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T09:52:36.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\CustomerApp\\CustomerApp\\Pages\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "CustomerApp\\Pages\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\CustomerApp\\CustomerApp\\Pages\\Customers\\Create.cshtml",
+              "RelativeToolTip": "CustomerApp\\Pages\\Customers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T09:51:34.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\CustomerApp\\CustomerApp\\Pages\\Customers\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "CustomerApp\\Pages\\Customers\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\CustomerApp\\CustomerApp\\Pages\\Customers\\Edit.cshtml.cs",
+              "RelativeToolTip": "CustomerApp\\Pages\\Customers\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:55:58.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\CustomerApp\\CustomerApp\\Pages\\Customers\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "CustomerApp\\Pages\\Customers\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\CustomerApp\\CustomerApp\\Pages\\Customers\\Create.cshtml.cs",
+              "RelativeToolTip": "CustomerApp\\Pages\\Customers\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:54:13.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\CustomerApp\\CustomerApp\\Pages\\Customers\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "CustomerApp\\Pages\\Customers\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\CustomerApp\\CustomerApp\\Pages\\Customers\\Index.cshtml.cs",
+              "RelativeToolTip": "CustomerApp\\Pages\\Customers\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:52:45.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\vas07\\source\\repos\\CustomerApp\\CustomerApp\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerApp\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\vas07\\source\\repos\\CustomerApp\\CustomerApp\\Models\\Customer.cs",
+              "RelativeToolTip": "CustomerApp\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:31:14.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

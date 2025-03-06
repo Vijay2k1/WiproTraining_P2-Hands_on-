@@ -1,0 +1,36 @@
+﻿@page
+@model CustomerApp.Pages.Customers.EditModel
+@{
+    ViewData["Title"] = "Edit Customer";
+}
+
+ <h2>Edit Customer</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="Customer.CustomerID" />
+
+    <div>
+        <label asp-for="Customer.Name"></label>
+        <input asp-for="Customer.Name" />
+    </div>
+    <div>
+        <label asp-for="Customer.Address"></label>
+        <input asp-for="Customer.Address" />
+    </div>
+    <div>
+        <label asp-for="Customer.Country"></label>
+        <input asp-for="Customer.Country" />
+    </div>
+    <div>
+        <label asp-for="Customer.City"></label>
+        <input asp-for="Customer.City" />
+    </div>
+    <div>
+        <label asp-for="Customer.Phoneno"></label>
+        <input asp-for="Customer.Phoneno" />
+    </div>
+
+    <button type="submit">Update</button>
+</form>
+<a asp-page="Index">Back to List</a>
+ 

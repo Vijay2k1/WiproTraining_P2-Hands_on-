@@ -1,0 +1,34 @@
+﻿@model List<MVC_Product_Demo.Models.Product>
+
+<h2>Product List</h2>
+
+@if (Model != null && Model.Any())
+{
+    <table border="1">
+        <thead>
+            <tr>
+                <th>PCode</th>
+                <th>Name</th>
+                <th>Qty In Stock</th>
+                <th>Details</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.PCode</td>
+                    <td>@product.Name</td>
+                    <td>@product.QtyInStock</td>
+                    <td>@product.Details</td>
+                    <td>@product.Price</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No products available.</p>
+}

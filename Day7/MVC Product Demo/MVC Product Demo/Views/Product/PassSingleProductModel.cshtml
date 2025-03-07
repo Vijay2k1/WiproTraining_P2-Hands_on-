@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewData["Title"] = "PassSingleProductModel";
+}
+
+<h1>PassSingleProductModel</h1>
+@model MVC_Product_Demo.Models.Product  
+
+<h2>Product Details</h2>
+
+@if (Model != null)
+{
+    <table border="1">
+        <tr>
+            <th>PCode</th>
+            <td>@Model.PCode</td>
+        </tr>
+        <tr>
+            <th>Name</th>
+            <td>@Model.Name</td>
+        </tr>
+        <tr>
+            <th>Qty In Stock</th>
+            <td>@Model.QtyInStock</td>
+        </tr>
+        <tr>
+            <th>Details</th>
+            <td>@Model.Details</td>
+        </tr>
+        <tr>
+            <th>Price</th>
+            <td>@Model.Price</td>
+        </tr>
+    </table>
+}
+else
+{
+    <p>No product details available.</p>
+}
+
+
+

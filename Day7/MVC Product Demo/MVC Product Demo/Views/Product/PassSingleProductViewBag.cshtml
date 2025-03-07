@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "PassSingleProductViewBag";
+}
+
+<h1>PassSingleProductViewBag</h1>
+@{
+    var product = ViewBag.Product;
+}
+@model MVC_Product_Demo.Models.Product
+
+<table border="1">
+    <tr><th>PCode</th><td>@product.PCode</td></tr>
+    <tr><th>Name</th><td>@product.Name</td></tr>
+    <tr><th>Qty In Stock</th><td>@product.QtyInStock</td></tr>
+    <tr><th>Details</th><td>@product.Details</td></tr>
+    <tr><th>Price</th><td>@product.Price</td></tr>
+</table>
+

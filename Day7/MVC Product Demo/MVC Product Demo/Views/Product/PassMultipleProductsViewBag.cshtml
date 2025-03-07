@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewData["Title"] = "PassMultipleProductsViewBag";
+}
+
+<h1>PassMultipleProductsViewBag</h1>
+@{
+    var products = ViewBag.Products;
+}
+
+<h2>Multiple Products (Using ViewBag)</h2>
+<table border="1">
+    <tr>
+        <th>PCode</th>
+        <th>Name</th>
+        <th>Qty In Stock</th>
+        <th>Details</th>
+        <th>Price</th>
+    </tr>
+    @foreach (var product in products)
+    {
+        <tr>
+            <td>@product.PCode</td>
+            <td>@product.Name</td>
+            <td>@product.QtyInStock</td>
+            <td>@product.Details</td>
+            <td>@product.Price</td>
+        </tr>
+    }
+</table>
+
+
